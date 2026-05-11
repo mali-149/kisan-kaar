@@ -1,0 +1,1 @@
+export const API_KEY = 'fda1b85830bb30ba2518270b8275824e'
