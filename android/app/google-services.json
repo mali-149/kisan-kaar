@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "113586607331",
+    "project_id": "kisankaar-5a325",
+    "storage_bucket": "kisankaar-5a325.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113586607331:android:758b9c0262839476a7a1d6",
+        "android_client_info": {
+          "package_name": "com.kisankaar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113586607331-u9onpktbkdji1v623oliib3dst9qt86m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZTpuHf-rfYuX3mARppy0trdezsRBXexQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113586607331-u9onpktbkdji1v623oliib3dst9qt86m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
